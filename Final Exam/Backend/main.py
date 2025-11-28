@@ -51,4 +51,9 @@ def main():
     print(f"{name} price including tax ({tax_rate*100:.0f}%): {price_with_tax:.2f}")
 
 if __name__ == "__main__":
+
   main() 
+
+print("-" * 20)
+print("Thank you for visiting our Shop. Have a great day!")
+input("Press Enter to exit...")
